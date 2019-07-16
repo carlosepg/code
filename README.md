@@ -1,2 +1,2 @@
-# code
+# Rubrik
 Repositório de códigos
